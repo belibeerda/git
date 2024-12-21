@@ -3,3 +3,5 @@ Example
 change Example
 
 Edited from githud
+
+Stash magic
