@@ -7,3 +7,5 @@ Edited from githud
 Stash magic
 
 Edit from branch develop
+
+Edit from gethub
