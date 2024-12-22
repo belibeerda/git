@@ -10,7 +10,8 @@ Edit from branch develop
 
 Edit from gethub
 
+Edit from main
+Edit from Develop
 
-Edir from main
-Edir from Develop
+Edit from task-1
 
