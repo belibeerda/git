@@ -5,3 +5,5 @@ change Example
 Edited from githud
 
 Stash magic
+
+Edit from branch develop
